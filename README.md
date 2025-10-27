@@ -3,6 +3,7 @@
 A real-time chat application built using React, TypeScript, Tailwind CSS, and Supabase.
 It allows users to register, log in, send and receive messages instantly, and view conversations in a clean, responsive user interface.
 
+
 # Project Overview
 
 The Chat Application with UI is a dynamic real-time web application developed to facilitate smooth and efficient communication between users through instant messaging. The main purpose of this project is to create an interactive and user-friendly platform where individuals can connect and exchange messages instantly, similar to popular chat applications. Built using modern web technologies such as React, TypeScript, and Tailwind CSS, the frontend offers a visually appealing, responsive, and seamless user experience. On the backend, Supabase plays a crucial role by handling user authentication, database storage, and real-time data synchronization, ensuring that all messages and updates are transmitted instantly between users without manual refreshing.
